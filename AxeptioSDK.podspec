@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = 'https://github.com/axeptio/tcf-ios-sdk.git'
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
   spec.author       = { 'Axeptio' => 'support@axeptio.eu' }
-  spec.source       = { :git => 'git@github.com:axeptio/tcf-ios-sdk.git', :tag => spec.version.to_s }
+  spec.source       = { :git => 'https://github.com/axeptio/tcf-ios-sdk.git', :tag => spec.version.to_s }
 
   spec.swift_version = '5.6'
   spec.ios.deployment_target = '12.0'
