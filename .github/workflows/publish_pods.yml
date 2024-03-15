@@ -1,0 +1,21 @@
+name: deploy_to_cocoapods 
+
+on:
+  push
+  # release:
+  #   types: [published]
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Cocoapods
+        run: gem install cocoapods
+      - name: Deploy to Cocoapods
+        env:
+          COCOAPODS_TRUNK_TOKEN: ${{ secrets.COCOAPODS_TRUNK_TOKEN }}
+        run: |
+          echo "LIB_VERSION=`git describe --abbrev=0`" >> "$GITHUB_ENV"
+          pod lib lint --allow-warnings
+        # pod trunk push --alow-warnings
