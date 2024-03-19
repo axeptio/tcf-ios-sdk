@@ -20,10 +20,13 @@ jobs:
         run: gem install cocoapods
       - name: Get last pods version
         id: tag
-        run: echo "LIB_VERSION=`git tag | sort -V | tail -1`" >> "$GITHUB_OUTPUT"
+        run: |
+          VERSION=`git tag | sort -V | tail -1`
+          echo $VERSION
+          echo "LAST_VERSION=$VERSION" >> "$GITHUB_OUTPUT"
       - name: Deploy to Cocoapods
         env:
-          LIB_VERSION: ${{ steps.tag.outputs.LIB_VERSION }}
+          LIB_VERSION: ${{ steps.tag.outputs.LAST_VERSION }}
           COCOAPODS_TRUNK_TOKEN: ${{ secrets.COCOAPODS_TRUNK_TOKEN }}
         run: |
           echo $LIB_VERSION
