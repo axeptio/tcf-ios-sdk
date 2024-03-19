@@ -22,9 +22,9 @@ jobs:
         run: echo "LIB_VERSION=`git tag | sort -V | tail -1`" >> "$GITHUB_ENV"
       - name: Deploy to Cocoapods
         env:
-          LIB_VERSION: €{{ env.LIB_VERSION }}
+          LIB_VERSION: ${{ env.LIB_VERSION }}
           COCOAPODS_TRUNK_TOKEN: ${{ secrets.COCOAPODS_TRUNK_TOKEN }}
         run: |
-          echo {{ env.LIB_VERSION }}
+          echo ${{ env.LIB_VERSION }}
           pod lib lint --allow-warnings
           pod trunk push AxeptioTCFSDK.podspec --allow-warnings
