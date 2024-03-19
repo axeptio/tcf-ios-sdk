@@ -20,12 +20,12 @@ jobs:
         run: gem install cocoapods
       - name: Get last pods version
         id: tag
-        run: echo "LIB_VERSION=`git tag | sort -V | tail -1`" >> $GITHUB_ENV
+        run: echo "LIB_VERSION=`git tag | sort -V | tail -1`" >> "$GITHUB_OUTPUT"
       - name: Deploy to Cocoapods
         env:
-          LIB_VERSION: ${{ env.LIB_VERSION }}
+          LIB_VERSION: ${{ steps.tag.outputs.LIB_VERSION }}
           COCOAPODS_TRUNK_TOKEN: ${{ secrets.COCOAPODS_TRUNK_TOKEN }}
         run: |
-          echo ${{ env.LIB_VERSION }}
+          echo $LIB_VERSION
           pod lib lint --allow-warnings
           pod trunk push AxeptioTCFSDK.podspec --allow-warnings
