@@ -19,7 +19,8 @@ jobs:
       - name: Install Cocoapods
         run: gem install cocoapods
       - name: Get last pods version
-        run: echo "LIB_VERSION=`git tag | sort -V | tail -1`" >> "$GITHUB_ENV"
+        id: tag
+        run: echo "LIB_VERSION=`git tag | sort -V | tail -1`" >> $GITHUB_ENV
       - name: Deploy to Cocoapods
         env:
           LIB_VERSION: ${{ env.LIB_VERSION }}
