@@ -1,15 +1,16 @@
 name: deploy_to_cocoapods 
 
 on:
-  pull_request=
-  types:
-    - opened
-  branches:
-    - closed
+  pull_request:
+    branches:
+      - master
+    types:
+      - closed
+    
 
 jobs:
   if_merged:
-    if: github.event.pull_request.merged == true:
+    if: github.event.pull_request.merged == true
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
