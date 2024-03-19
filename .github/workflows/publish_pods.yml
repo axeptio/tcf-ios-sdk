@@ -20,7 +20,7 @@ jobs:
       - name: Install Cocoapods
         run: gem install cocoapods
       - name: Get last pods version
-        run: echo "LIB_VERSION='git describe --tags `git rev-list --tags --max-count=1`'" >> "$GITHUB_ENV"
+        run: echo "LIB_VERSION=`git describe --tags $(git rev-list --tags --max-count=1)`" >> "$GITHUB_ENV"
       - name: Deploy to Cocoapods
         env:
           COCOAPODS_TRUNK_TOKEN: ${{ secrets.COCOAPODS_TRUNK_TOKEN }}
