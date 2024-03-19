@@ -1,12 +1,15 @@
 name: deploy_to_cocoapods 
 
 on:
-  push
-  # release:
-  #   types: [published]
+  pull_request=
+  types:
+    - opened
+  branches:
+    - closed
 
 jobs:
-  build:
+  if_merged:
+    if: github.event.pull_request.merged == true:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
@@ -19,4 +22,4 @@ jobs:
           echo "LIB_VERSION=`git describe --abbrev=0`" >> "$GITHUB_ENV"
           echo "${{ env.LIB_VERSION }}"
           pod lib lint --allow-warnings
-        # pod trunk push --alow-warnings
+          pod trunk push --alow-warnings

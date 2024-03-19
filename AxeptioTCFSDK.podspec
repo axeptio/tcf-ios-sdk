@@ -19,6 +19,6 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/axeptio/tcf-ios-sdk.git", :tag => spec.version.to_s }
   spec.vendored_frameworks = "AxeptioSDK.xcframework"
   spec.swift_version = "5.6"
-  spec.platform = :ios, "14.0"
-  spec.ios.deployment_target = "14.0"
+  spec.platform = :ios, "15.0"
+  spec.ios.deployment_target = "15.0"
 end
