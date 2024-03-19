@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = "AxeptioTCFSDK"
-  spec.version      = ENV['LIB_VERSION'] || '0.1.1'
+  spec.version      = ENV['LIB_VERSION'] || '1.0.0'
   spec.summary      = "AxeptioSDK for presenting cookies consent to the user"
   spec.description  = <<-DESC
   The Axeptio SDK for iOS Apps ask and collect consent from the user using a simple Swift API, accessible from both Objective-C and swift projects
