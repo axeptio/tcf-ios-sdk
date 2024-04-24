@@ -299,17 +299,22 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 @class NSString;
-@class UIViewController;
+@class NSURL;
 @class AxeptioEventListener;
 
 SWIFT_CLASS("_TtC10AxeptioSDK7Axeptio")
 @interface Axeptio : NSObject
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) Axeptio * _Nonnull shared;)
 + (Axeptio * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
-- (void)initializeWithProjectId:(NSString * _Nonnull)projectId configurationId:(NSString * _Nonnull)configurationId;
-- (void)setupUIWithContainerController:(UIViewController * _Nonnull)containerController;
+@property (nonatomic, readonly, copy) NSString * _Nonnull keyAxeptioTokenQueryItem;
+@property (nonatomic, readonly, copy) NSString * _Nullable axeptioToken;
+- (void)initializeWithClientId:(NSString * _Nonnull)clientId cookiesVersion:(NSString * _Nonnull)cookiesVersion;
+- (void)initializeWithClientId:(NSString * _Nonnull)clientId cookiesVersion:(NSString * _Nonnull)cookiesVersion token:(NSString * _Nonnull)token;
+- (void)setupUI;
 - (void)setUserDeniedTracking;
-- (void)showConsentScreen:(UIViewController * _Nonnull)view;
+- (NSURL * _Nonnull)appendAxeptioTokenToURL:(NSURL * _Nonnull)url token:(NSString * _Nonnull)token SWIFT_WARN_UNUSED_RESULT;
+- (void)showConsentScreen;
+- (void)clearConsent;
 - (void)setEventListener:(AxeptioEventListener * _Nonnull)listener;
 - (void)removeEventListener:(AxeptioEventListener * _Nonnull)listener;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
@@ -342,6 +347,8 @@ SWIFT_CLASS("_TtC10AxeptioSDK15GoogleConsentV2")
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
+
 
 #endif
 #if __has_attribute(external_source_symbol)

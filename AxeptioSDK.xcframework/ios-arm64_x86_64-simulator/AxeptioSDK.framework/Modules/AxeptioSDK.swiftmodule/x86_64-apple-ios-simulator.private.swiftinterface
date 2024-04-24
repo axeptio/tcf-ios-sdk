@@ -14,10 +14,17 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 @objc @_hasMissingDesignatedInitializers final public class Axeptio : ObjectiveC.NSObject {
   @objc public static let shared: AxeptioSDK.Axeptio
-  @objc final public func initialize(projectId: Swift.String, configurationId: Swift.String)
-  @objc final public func setupUI(containerController: UIKit.UIViewController)
+  @objc final public let keyAxeptioTokenQueryItem: Swift.String
+  @objc final public var axeptioToken: Swift.String? {
+    @objc get
+  }
+  @objc final public func initialize(clientId: Swift.String, cookiesVersion: Swift.String)
+  @objc final public func initialize(clientId: Swift.String, cookiesVersion: Swift.String, token: Swift.String)
+  @objc final public func setupUI()
   @objc final public func setUserDeniedTracking()
-  @objc final public func showConsentScreen(_ view: UIKit.UIViewController)
+  @objc final public func appendAxeptioTokenToURL(_ url: Foundation.URL, token: Swift.String) -> Foundation.URL
+  @objc final public func showConsentScreen()
+  @objc final public func clearConsent()
   @objc final public func setEventListener(_ listener: AxeptioSDK.AxeptioEventListener)
   @objc final public func removeEventListener(_ listener: AxeptioSDK.AxeptioEventListener)
   @objc deinit
