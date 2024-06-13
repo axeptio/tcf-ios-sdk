@@ -2,8 +2,8 @@
 triple:          'arm64-apple-darwin'
 binary-path:     '/Users/runner/Library/Developer/Xcode/DerivedData/tcf-ios-sdk-evwnhxykwcmrumfssjuyvcvuzqag/Build/Intermediates.noindex/ArchiveIntermediates/AxeptioSDK/InstallationBuildProductsLocation/Library/Frameworks/AxeptioSDK.framework/AxeptioSDK'
 relocations:
-  - { offsetInCU: 0x34, offset: 0x599F2, size: 0x8, addend: 0x0, symName: _AxeptioSDKVersionString, symObjAddr: 0x0, symBinAddr: 0x21050, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x59A27, size: 0x8, addend: 0x0, symName: _AxeptioSDKVersionNumber, symObjAddr: 0x30, symBinAddr: 0x21080, symSize: 0x0 }
+  - { offsetInCU: 0x34, offset: 0x599F2, size: 0x8, addend: 0x0, symName: _AxeptioSDKVersionString, symObjAddr: 0x0, symBinAddr: 0x210D0, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x59A27, size: 0x8, addend: 0x0, symName: _AxeptioSDKVersionNumber, symObjAddr: 0x30, symBinAddr: 0x21100, symSize: 0x0 }
   - { offsetInCU: 0x8D, offset: 0x59ACA, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A8EndPointO4pathSSvg', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0xE4 }
   - { offsetInCU: 0x209, offset: 0x59C46, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A8EndPointO4bodyypvg', symObjAddr: 0xE4, symBinAddr: 0x80E4, symSize: 0x380 }
   - { offsetInCU: 0x4B6, offset: 0x59EF3, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A8EndPointOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x464, symBinAddr: 0x8464, symSize: 0x48 }
@@ -47,7 +47,7 @@ relocations:
   - { offsetInCU: 0xDFD, offset: 0x5A83A, size: 0x8, addend: 0x0, symName: '_$ss20_SwiftNewtypeWrapperPss21_ObjectiveCBridgeable8RawValueRpzrlE024_conditionallyBridgeFromD1C_6resultSbAD_01_D5CTypeQZ_xSgztFZSo38UIApplicationOpenExternalURLOptionsKeya_Tgq5Tf4nnd_n', symObjAddr: 0xEE8, symBinAddr: 0x8EC8, symSize: 0x90 }
   - { offsetInCU: 0xF7B, offset: 0x5A9B8, size: 0x8, addend: 0x0, symName: '_$sSo38UIApplicationOpenExternalURLOptionsKeyaSYSCSY8rawValuexSg03RawG0Qz_tcfCTW', symObjAddr: 0x6A0, symBinAddr: 0x8680, symSize: 0x44 }
   - { offsetInCU: 0xFA4, offset: 0x5A9E1, size: 0x8, addend: 0x0, symName: '_$sSo38UIApplicationOpenExternalURLOptionsKeyaSYSCSY8rawValue03RawG0QzvgTW', symObjAddr: 0x6E4, symBinAddr: 0x86C4, symSize: 0x28 }
-  - { offsetInCU: 0x4F, offset: 0x5AB22, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A0C6sharedACvpZ', symObjAddr: 0x3A30, symBinAddr: 0x2E1D0, symSize: 0x0 }
+  - { offsetInCU: 0x4F, offset: 0x5AB22, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A0C6sharedACvpZ', symObjAddr: 0x3A30, symBinAddr: 0x2E1E0, symSize: 0x0 }
   - { offsetInCU: 0xA7, offset: 0x5AB7A, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A0C6sharedACvgZ', symObjAddr: 0x300, symBinAddr: 0x9298, symSize: 0x40 }
   - { offsetInCU: 0xEC, offset: 0x5ABBF, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A0C6sharedACvgZTo', symObjAddr: 0x340, symBinAddr: 0x92D8, symSize: 0x40 }
   - { offsetInCU: 0x149, offset: 0x5AC1C, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A0C03keyA14TokenQueryItemSSvgTo', symObjAddr: 0x380, symBinAddr: 0x9318, symSize: 0x4C }
@@ -156,7 +156,7 @@ relocations:
   - { offsetInCU: 0x5F5, offset: 0x5E36A, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK13CMPVisibilityC10CodingKeys33_33527EBA4C491B399718EEF6BC92B600LLOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0xC4, symBinAddr: 0xCB00, symSize: 0x40 }
   - { offsetInCU: 0x697, offset: 0x5E40C, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK13CMPVisibilityC10CodingKeys33_33527EBA4C491B399718EEF6BC92B600LLOs28CustomDebugStringConvertibleAAsAGP16debugDescriptionSSvgTW', symObjAddr: 0x148, symBinAddr: 0xCB84, symSize: 0x28 }
   - { offsetInCU: 0x6B3, offset: 0x5E428, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK13CMPVisibilityC10CodingKeys33_33527EBA4C491B399718EEF6BC92B600LLOs23CustomStringConvertibleAAsAGP11descriptionSSvgTW', symObjAddr: 0x170, symBinAddr: 0xCBAC, symSize: 0x28 }
-  - { offsetInCU: 0x4B, offset: 0x5E58B, size: 0x8, addend: 0x0, symName: '_$s2os6LoggerV10AxeptioSDKE7axeptioACvpZ', symObjAddr: 0x88E0, symBinAddr: 0x30A70, symSize: 0x0 }
+  - { offsetInCU: 0x4B, offset: 0x5E58B, size: 0x8, addend: 0x0, symName: '_$s2os6LoggerV10AxeptioSDKE7axeptioACvpZ', symObjAddr: 0x88E0, symBinAddr: 0x30A80, symSize: 0x0 }
   - { offsetInCU: 0x59, offset: 0x5E599, size: 0x8, addend: 0x0, symName: '_$sSS10AxeptioSDKE12toDictionarySDySSypSgGSgyF', symObjAddr: 0x0, symBinAddr: 0xD164, symSize: 0x1F0 }
   - { offsetInCU: 0x1BC, offset: 0x5E6FC, size: 0x8, addend: 0x0, symName: '_$s2os6LoggerV10AxeptioSDKE7axeptio_WZ', symObjAddr: 0x528, symBinAddr: 0xD68C, symSize: 0x80 }
   - { offsetInCU: 0x1D6, offset: 0x5E716, size: 0x8, addend: 0x0, symName: '_$s10Foundation4DateV10AxeptioSDKE09formattedB0SSyF', symObjAddr: 0x5A8, symBinAddr: 0xD70C, symSize: 0x194 }
@@ -295,7 +295,7 @@ relocations:
   - { offsetInCU: 0xB39, offset: 0x61725, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6ConfigV10CodingKeys33_E1321567D3DA969A681327244E2A1F2CLLOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x288, symBinAddr: 0x10540, symSize: 0x40 }
   - { offsetInCU: 0xBDB, offset: 0x617C7, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6ConfigV10CodingKeys33_E1321567D3DA969A681327244E2A1F2CLLOs28CustomDebugStringConvertibleAAsAGP16debugDescriptionSSvgTW', symObjAddr: 0x30C, symBinAddr: 0x105C4, symSize: 0x28 }
   - { offsetInCU: 0xBF7, offset: 0x617E3, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6ConfigV10CodingKeys33_E1321567D3DA969A681327244E2A1F2CLLOs23CustomStringConvertibleAAsAGP11descriptionSSvgTW', symObjAddr: 0x334, symBinAddr: 0x105EC, symSize: 0x28 }
-  - { offsetInCU: 0x4B, offset: 0x61935, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6IABTCFV8tokenKeySSvpZ', symObjAddr: 0x9880, symBinAddr: 0x30A88, symSize: 0x0 }
+  - { offsetInCU: 0x4B, offset: 0x61935, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6IABTCFV8tokenKeySSvpZ', symObjAddr: 0x9880, symBinAddr: 0x30A98, symSize: 0x0 }
   - { offsetInCU: 0x72, offset: 0x6195C, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6IABTCFV10CodingKeysO8rawValueSSvg', symObjAddr: 0x0, symBinAddr: 0x112A8, symSize: 0x1A4 }
   - { offsetInCU: 0xCA, offset: 0x619B4, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6IABTCFV10CodingKeysOSYAASY8rawValuexSg03RawG0Qz_tcfCTW', symObjAddr: 0x328, symBinAddr: 0x115D0, symSize: 0x44 }
   - { offsetInCU: 0x110, offset: 0x619FA, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6IABTCFV10CodingKeysOSYAASY8rawValue03RawG0QzvgTW', symObjAddr: 0x36C, symBinAddr: 0x11614, symSize: 0x28 }
@@ -374,9 +374,9 @@ relocations:
   - { offsetInCU: 0x51C, offset: 0x629FC, size: 0x8, addend: 0x0, symName: '_$sytIegr_Ieg_TRTA', symObjAddr: 0xBA0, symBinAddr: 0x14AA0, symSize: 0x20 }
   - { offsetInCU: 0x550, offset: 0x62A30, size: 0x8, addend: 0x0, symName: '_$sIeg_ytIegr_TRTA', symObjAddr: 0xBC0, symBinAddr: 0x14AC0, symSize: 0x20 }
   - { offsetInCU: 0x2B, offset: 0x62BB7, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11EnvironmentO4KeysO7baseUrl_WZ', symObjAddr: 0x0, symBinAddr: 0x14B28, symSize: 0x24 }
-  - { offsetInCU: 0x4F, offset: 0x62BDB, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11EnvironmentO4KeysO7baseUrlSSvpZ', symObjAddr: 0x2550, symBinAddr: 0x30A98, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x62BF5, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11EnvironmentO14infoDictionary018_B85E6C93BFDE76F15G13ADEFF0555F130LLSDySSypGvpZ', symObjAddr: 0x310, symBinAddr: 0x2E788, symSize: 0x0 }
-  - { offsetInCU: 0x83, offset: 0x62C0F, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11EnvironmentO7baseURLSSSgvpZ', symObjAddr: 0x2560, symBinAddr: 0x30AA8, symSize: 0x0 }
+  - { offsetInCU: 0x4F, offset: 0x62BDB, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11EnvironmentO4KeysO7baseUrlSSvpZ', symObjAddr: 0x2550, symBinAddr: 0x30AA8, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x62BF5, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11EnvironmentO14infoDictionary018_B85E6C93BFDE76F15G13ADEFF0555F130LLSDySSypGvpZ', symObjAddr: 0x310, symBinAddr: 0x2E798, symSize: 0x0 }
+  - { offsetInCU: 0x83, offset: 0x62C0F, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11EnvironmentO7baseURLSSSgvpZ', symObjAddr: 0x2560, symBinAddr: 0x30AB8, symSize: 0x0 }
   - { offsetInCU: 0x98, offset: 0x62C24, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11EnvironmentO4KeysO7baseUrl_WZ', symObjAddr: 0x0, symBinAddr: 0x14B28, symSize: 0x24 }
   - { offsetInCU: 0xD0, offset: 0x62C5C, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11EnvironmentO7baseURLSSSgvpZfiAEyXEfU_', symObjAddr: 0x104, symBinAddr: 0x14C2C, symSize: 0x150 }
   - { offsetInCU: 0x128, offset: 0x62CB4, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11EnvironmentO14infoDictionary018_B85E6C93BFDE76F15G13ADEFF0555F130LL_WZ', symObjAddr: 0x24, symBinAddr: 0x14B4C, symSize: 0xC0 }
@@ -436,122 +436,122 @@ relocations:
   - { offsetInCU: 0xE93, offset: 0x659AC, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC7showCMPyyFyycfU_', symObjAddr: 0x1B20, symBinAddr: 0x19184, symSize: 0x328 }
   - { offsetInCU: 0xF31, offset: 0x65A4A, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplCAA0acD0A2aDP8clientIdSSvsTW', symObjAddr: 0x1E48, symBinAddr: 0x194AC, symSize: 0x14 }
   - { offsetInCU: 0xF72, offset: 0x65A8B, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplCAA0acD0A2aDP14cookiesVersionSSvsTW', symObjAddr: 0x1E5C, symBinAddr: 0x194C0, symSize: 0x14 }
-  - { offsetInCU: 0x10DD, offset: 0x65BF6, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC9viewModelAcA0adG0_p_tcfcTf4en_nAA0adgE0C_Tg5', symObjAddr: 0x1F00, symBinAddr: 0x19518, symSize: 0x394 }
-  - { offsetInCU: 0x16DB, offset: 0x661F4, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplCMa', symObjAddr: 0x14F4, symBinAddr: 0x18B58, symSize: 0x20 }
-  - { offsetInCU: 0x1738, offset: 0x66251, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC10destroyCMP33_CD6674DB3932C2FB908DF7DE894DBE5BLLyyF', symObjAddr: 0x18A0, symBinAddr: 0x18F04, symSize: 0x11C }
-  - { offsetInCU: 0x17E1, offset: 0x662FA, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC7showCMPyyFyycfU_TA', symObjAddr: 0x1EB8, symBinAddr: 0x194F8, symSize: 0x8 }
-  - { offsetInCU: 0x17F5, offset: 0x6630E, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x1EC0, symBinAddr: 0x19500, symSize: 0x10 }
-  - { offsetInCU: 0x1809, offset: 0x66322, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x1ED0, symBinAddr: 0x19510, symSize: 0x8 }
-  - { offsetInCU: 0x1828, offset: 0x66341, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC19handleCMPVisibilityyyAA0G0CSgFySo7NSTimerCYbcfU_TA', symObjAddr: 0x2360, symBinAddr: 0x198F0, symSize: 0x8 }
-  - { offsetInCU: 0x183C, offset: 0x66355, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A10WorkerImplC21storeCookiesOpenEvent7payloadySSSg_tFyycfU_TA', symObjAddr: 0x23E8, symBinAddr: 0x19924, symSize: 0xC }
-  - { offsetInCU: 0x1850, offset: 0x66369, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6IABTCFVACSeAAWl', symObjAddr: 0x23F4, symBinAddr: 0x19930, symSize: 0x44 }
-  - { offsetInCU: 0x1864, offset: 0x6637D, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6IABTCFVWOs', symObjAddr: 0x24A8, symBinAddr: 0x19974, symSize: 0xE8 }
-  - { offsetInCU: 0x1878, offset: 0x66391, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC9deniedATTyyFyycfU_TA', symObjAddr: 0x2590, symBinAddr: 0x19A5C, symSize: 0x8 }
-  - { offsetInCU: 0x188C, offset: 0x663A5, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC010loadHiddenC016forceShowConsentySb_tFyycfU_TA', symObjAddr: 0x25DC, symBinAddr: 0x19AA8, symSize: 0xC }
-  - { offsetInCU: 0x18A0, offset: 0x663B9, size: 0x8, addend: 0x0, symName: '_$sSo17OS_dispatch_queueCMa', symObjAddr: 0x25E8, symBinAddr: 0x19AB4, symSize: 0x3C }
-  - { offsetInCU: 0x18B4, offset: 0x663CD, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC12userDefaults03webC06worker14networkMonitor10attManager13dispatchQueueACSo06NSUserG0C_AA03WebC0_pSgAA0A6Worker_pAA011NetworkPathK0_pAA10ATTManager_pAA08DispatchO4Type_ptcfcy0S06NWPathV6StatusOcfU_yyScMYccfU_TA', symObjAddr: 0x2698, symBinAddr: 0x19B64, symSize: 0x30 }
-  - { offsetInCU: 0x18C8, offset: 0x663E1, size: 0x8, addend: 0x0, symName: '_$s8Dispatch0A13WorkItemFlagsVACs10SetAlgebraAAWl', symObjAddr: 0x26C8, symBinAddr: 0x19B94, symSize: 0x48 }
-  - { offsetInCU: 0x18DC, offset: 0x663F5, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGSayxGSTsWl', symObjAddr: 0x2710, symBinAddr: 0x19BDC, symSize: 0x4C }
-  - { offsetInCU: 0x69, offset: 0x66871, size: 0x8, addend: 0x0, symName: '_$sSo17OS_dispatch_queueC10AxeptioSDK17DispatchQueueTypeA2cDP5async7executeyyyXB_tFTW', symObjAddr: 0x0, symBinAddr: 0x19C54, symSize: 0x154 }
-  - { offsetInCU: 0x27, offset: 0x669FA, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12ProviderImplC7execute_10completionyAA14NetworkRequest_p_ys6ResultOyyts5Error_pGctFy10Foundation4DataVSg_So13NSURLResponseCSgsAI_pSgtYbcfU_', symObjAddr: 0x8, symBinAddr: 0x19DA8, symSize: 0x194 }
-  - { offsetInCU: 0x61, offset: 0x66A34, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12ProviderImplC7execute_10completionyAA14NetworkRequest_p_ys6ResultOyyts5Error_pGctFy10Foundation4DataVSg_So13NSURLResponseCSgsAI_pSgtYbcfU_', symObjAddr: 0x8, symBinAddr: 0x19DA8, symSize: 0x194 }
-  - { offsetInCU: 0x151, offset: 0x66B24, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12ProviderImplCfD', symObjAddr: 0x19C, symBinAddr: 0x19F3C, symSize: 0x10 }
-  - { offsetInCU: 0x181, offset: 0x66B54, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12ProviderImplCMa', symObjAddr: 0x1AC, symBinAddr: 0x19F4C, symSize: 0x20 }
-  - { offsetInCU: 0x4B, offset: 0x66D33, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventO8rawValueSSvg', symObjAddr: 0xC4, symBinAddr: 0x19F6C, symSize: 0x130 }
-  - { offsetInCU: 0xA3, offset: 0x66D8B, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSYAASY8rawValuexSg03RawF0Qz_tcfCTW', symObjAddr: 0x378, symBinAddr: 0x1A220, symSize: 0x44 }
-  - { offsetInCU: 0xE9, offset: 0x66DD1, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSYAASY8rawValue03RawF0QzvgTW', symObjAddr: 0x3BC, symBinAddr: 0x1A264, symSize: 0x28 }
-  - { offsetInCU: 0x10C, offset: 0x66DF4, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOs12CaseIterableAAsADP8allCases03AllH0QzvgZTW', symObjAddr: 0x3E4, symBinAddr: 0x1A28C, symSize: 0x24 }
-  - { offsetInCU: 0x13D, offset: 0x66E25, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventO8allCasesSayACGvgZTf4d_n', symObjAddr: 0x430, symBinAddr: 0x1A2B0, symSize: 0x54 }
-  - { offsetInCU: 0x1AD, offset: 0x66E95, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventO8rawValueACSgSS_tcfCTf4nd_nTf4g_n', symObjAddr: 0x720, symBinAddr: 0x1A50C, symSize: 0x50 }
-  - { offsetInCU: 0x21B, offset: 0x66F03, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOwet', symObjAddr: 0x4D4, symBinAddr: 0x1A304, symSize: 0x90 }
-  - { offsetInCU: 0x22F, offset: 0x66F17, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOwst', symObjAddr: 0x564, symBinAddr: 0x1A394, symSize: 0xBC }
-  - { offsetInCU: 0x243, offset: 0x66F2B, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOwug', symObjAddr: 0x620, symBinAddr: 0x1A450, symSize: 0x8 }
-  - { offsetInCU: 0x257, offset: 0x66F3F, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOwup', symObjAddr: 0x628, symBinAddr: 0x1A458, symSize: 0x4 }
-  - { offsetInCU: 0x26B, offset: 0x66F53, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOwui', symObjAddr: 0x62C, symBinAddr: 0x1A45C, symSize: 0x8 }
-  - { offsetInCU: 0x27F, offset: 0x66F67, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOMa', symObjAddr: 0x634, symBinAddr: 0x1A464, symSize: 0x10 }
-  - { offsetInCU: 0x293, offset: 0x66F7B, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOs12CaseIterableAA8AllCasessADP_SlWT', symObjAddr: 0x644, symBinAddr: 0x1A474, symSize: 0x4 }
-  - { offsetInCU: 0x2A7, offset: 0x66F8F, size: 0x8, addend: 0x0, symName: '_$sSay10AxeptioSDK14AnalyticsEventOGSayxGSlsWl', symObjAddr: 0x648, symBinAddr: 0x1A478, symSize: 0x4C }
-  - { offsetInCU: 0x2BB, offset: 0x66FA3, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSHAASQWb', symObjAddr: 0x6D8, symBinAddr: 0x1A4C4, symSize: 0x4 }
-  - { offsetInCU: 0x2CF, offset: 0x66FB7, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOACSQAAWl', symObjAddr: 0x6DC, symBinAddr: 0x1A4C8, symSize: 0x44 }
-  - { offsetInCU: 0x312, offset: 0x66FFA, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x1F4, symBinAddr: 0x1A09C, symSize: 0x88 }
-  - { offsetInCU: 0x3C1, offset: 0x670A9, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSHAASH9hashValueSivgTW', symObjAddr: 0x27C, symBinAddr: 0x1A124, symSize: 0x60 }
-  - { offsetInCU: 0x43F, offset: 0x67127, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x2DC, symBinAddr: 0x1A184, symSize: 0x40 }
-  - { offsetInCU: 0x491, offset: 0x67179, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x31C, symBinAddr: 0x1A1C4, symSize: 0x5C }
-  - { offsetInCU: 0x4F, offset: 0x67322, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC13keyTCStringJSSSvpZ', symObjAddr: 0x18D28, symBinAddr: 0x30AB8, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x6733C, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC11keyClientIdSSvpZ', symObjAddr: 0x18D38, symBinAddr: 0x30AC8, symSize: 0x0 }
-  - { offsetInCU: 0x77, offset: 0x6734A, size: 0x8, addend: 0x0, symName: '_$sIeg_IeyB_TR', symObjAddr: 0x18, symBinAddr: 0x1A55C, symSize: 0x2C }
-  - { offsetInCU: 0x8F, offset: 0x67362, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC13keyTCStringJS_WZ', symObjAddr: 0x44, symBinAddr: 0x1A588, symSize: 0x2C }
-  - { offsetInCU: 0xA9, offset: 0x6737C, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC11keyClientId_WZ', symObjAddr: 0x70, symBinAddr: 0x1A5B4, symSize: 0x30 }
-  - { offsetInCU: 0xCF, offset: 0x673A2, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC5coderACSgSo7NSCoderC_tcfc', symObjAddr: 0xA0, symBinAddr: 0x1A5E4, symSize: 0xB0 }
-  - { offsetInCU: 0x11A, offset: 0x673ED, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x150, symBinAddr: 0x1A694, symSize: 0x30 }
-  - { offsetInCU: 0x172, offset: 0x67445, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC04loadD016forceShowConsentySb_tF', symObjAddr: 0x180, symBinAddr: 0x1A6C4, symSize: 0x708 }
-  - { offsetInCU: 0x4EB, offset: 0x677BE, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC16viewDidDisappearyySbF', symObjAddr: 0xC34, symBinAddr: 0x1B178, symSize: 0x178 }
-  - { offsetInCU: 0x5BE, offset: 0x67891, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC16viewDidDisappearyySbFyypSg_s5Error_pSgtcfU_', symObjAddr: 0xDAC, symBinAddr: 0x1B2F0, symSize: 0x158 }
-  - { offsetInCU: 0x6AA, offset: 0x6797D, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC16viewDidDisappearyySbFTo', symObjAddr: 0xFA8, symBinAddr: 0x1B4EC, symSize: 0x3C }
-  - { offsetInCU: 0x6EE, offset: 0x679C1, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo', symObjAddr: 0xFE4, symBinAddr: 0x1B528, symSize: 0x34 }
-  - { offsetInCU: 0x74B, offset: 0x67A1E, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplCfD', symObjAddr: 0x1018, symBinAddr: 0x1B55C, symSize: 0x30 }
-  - { offsetInCU: 0xA8F, offset: 0x67D62, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC17initConfiguration33_AB57C153C3CD7F4D15788732DC7BDEE9LLyySo23WKUserContentControllerCzF', symObjAddr: 0x888, symBinAddr: 0x1ADCC, symSize: 0x3AC }
-  - { offsetInCU: 0xC78, offset: 0x67F4B, size: 0x8, addend: 0x0, symName: '_$sypSgs5Error_pSgIegng_yXlSgSo7NSErrorCSgIeyByy_TR', symObjAddr: 0xF04, symBinAddr: 0x1B448, symSize: 0xA4 }
-  - { offsetInCU: 0xCA6, offset: 0x67F79, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplCfETo', symObjAddr: 0x1048, symBinAddr: 0x1B58C, symSize: 0x68 }
-  - { offsetInCU: 0xCD5, offset: 0x67FA8, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplCMa', symObjAddr: 0x10B0, symBinAddr: 0x1B5F4, symSize: 0x20 }
-  - { offsetInCU: 0xCF8, offset: 0x67FCB, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC03webD0_15decidePolicyFor15decisionHandlerySo05WKWebD0C_So18WKNavigationActionCySo0mnH0VctFTo', symObjAddr: 0x10D0, symBinAddr: 0x1B614, symSize: 0x98 }
-  - { offsetInCU: 0xD39, offset: 0x6800C, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC21userContentController_10didReceiveySo06WKUsergH0C_So15WKScriptMessageCtFTo', symObjAddr: 0x1168, symBinAddr: 0x1B6AC, symSize: 0x74 }
-  - { offsetInCU: 0xE1B, offset: 0x680EE, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC27clearLocalStorageBeforeInit33_AB57C153C3CD7F4D15788732DC7BDEE9LLyyFySaySo19WKWebsiteDataRecordCGcfU_', symObjAddr: 0x11DC, symBinAddr: 0x1B720, symSize: 0xF8 }
-  - { offsetInCU: 0xFCA, offset: 0x6829D, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC27clearLocalStorageBeforeInit33_AB57C153C3CD7F4D15788732DC7BDEE9LLyyFySaySo19WKWebsiteDataRecordCGcfU_yAGXEfU_', symObjAddr: 0x12D4, symBinAddr: 0x1B818, symSize: 0x310 }
-  - { offsetInCU: 0x1156, offset: 0x68429, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC27clearLocalStorageBeforeInit33_AB57C153C3CD7F4D15788732DC7BDEE9LLyyFySaySo19WKWebsiteDataRecordCGcfU_yAGXEfU_yycfU_', symObjAddr: 0x15E4, symBinAddr: 0x1BB28, symSize: 0x4 }
-  - { offsetInCU: 0x1170, offset: 0x68443, size: 0x8, addend: 0x0, symName: '_$sSaySo19WKWebsiteDataRecordCGIegg_So7NSArrayCIeyBy_TR', symObjAddr: 0x15E8, symBinAddr: 0x1BB2C, symSize: 0x6C }
-  - { offsetInCU: 0x1188, offset: 0x6845B, size: 0x8, addend: 0x0, symName: '_$s2os32getNullTerminatedUTF8PointerImpl_21storingStringOwnersInSVSS_SpyypGSgztF', symObjAddr: 0x173C, symBinAddr: 0x1BB98, symSize: 0xD0 }
-  - { offsetInCU: 0x11B6, offset: 0x68489, size: 0x8, addend: 0x0, symName: '_$ss11_StringGutsV16_deconstructUTF87scratchyXlSg5owner_xSi6lengthSb11usesScratchSb15allocatedMemorytSwSg_ts8_PointerRzlFSV_Tgq5', symObjAddr: 0x180C, symBinAddr: 0x1BC68, symSize: 0x130 }
-  - { offsetInCU: 0x122F, offset: 0x68502, size: 0x8, addend: 0x0, symName: '_$ss11_StringGutsV23_allocateForDeconstructyXl5owner_SVSi6lengthtyF', symObjAddr: 0x193C, symBinAddr: 0x1BD98, symSize: 0xAC }
-  - { offsetInCU: 0x12B3, offset: 0x68586, size: 0x8, addend: 0x0, symName: '_$ss32_copyCollectionToContiguousArrayys0dE0Vy7ElementQzGxSlRzlFSS8UTF8ViewV_Tgq5', symObjAddr: 0x19E8, symBinAddr: 0x1BE44, symSize: 0x148 }
-  - { offsetInCU: 0x1322, offset: 0x685F5, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFs5UInt8V_Tgq5', symObjAddr: 0x1B30, symBinAddr: 0x1BF8C, symSize: 0xE8 }
-  - { offsetInCU: 0x13BF, offset: 0x68692, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0x1C28, symBinAddr: 0x1C074, symSize: 0x64 }
-  - { offsetInCU: 0x1401, offset: 0x686D4, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSo38UIApplicationOpenExternalURLOptionsKeya_Tg5', symObjAddr: 0x1C8C, symBinAddr: 0x1C0D8, symSize: 0x80 }
-  - { offsetInCU: 0x14CB, offset: 0x6879E, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV7_insert2at3key5valueys10_HashTableV6BucketV_xnq_ntFSS_ypSgTg5', symObjAddr: 0x1D0C, symBinAddr: 0x1C158, symSize: 0x6C }
-  - { offsetInCU: 0x155A, offset: 0x6882D, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tg5', symObjAddr: 0x1D78, symBinAddr: 0x1C1C4, symSize: 0xE0 }
-  - { offsetInCU: 0x1599, offset: 0x6886C, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSo38UIApplicationOpenExternalURLOptionsKeya_Tg5', symObjAddr: 0x1E58, symBinAddr: 0x1C2A4, symSize: 0x174 }
-  - { offsetInCU: 0x1621, offset: 0x688F4, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiF10AxeptioSDK0G13EventListenerC_Tg5', symObjAddr: 0x1FCC, symBinAddr: 0x1C418, symSize: 0x1E4 }
-  - { offsetInCU: 0x177B, offset: 0x68A4E, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCs5UInt8V_Tgq5Tf4nnd_n', symObjAddr: 0x2708, symBinAddr: 0x1CB54, symSize: 0x64 }
-  - { offsetInCU: 0x1835, offset: 0x68B08, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC21addDataToLocalStorage33_AB57C153C3CD7F4D15788732DC7BDEE9LL_4item17contentControllerySS_ypSo013WKUserContentU0CztFTf4nnnd_n', symObjAddr: 0x276C, symBinAddr: 0x1CBB8, symSize: 0x4FC }
-  - { offsetInCU: 0x1B92, offset: 0x68E65, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC03webD0_15decidePolicyFor15decisionHandlerySo05WKWebD0C_So18WKNavigationActionCySo0mnH0VctF06$sSo24mnH16VIeyBy_ABIegy_TRALIeyBy_Tf1nncn_nTf4dndg_n', symObjAddr: 0x2C68, symBinAddr: 0x1D0B4, symSize: 0x62C }
-  - { offsetInCU: 0x1EC6, offset: 0x69199, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC21userContentController_10didReceiveySo06WKUsergH0C_So15WKScriptMessageCtFTf4dnn_n', symObjAddr: 0x3294, symBinAddr: 0x1D6E0, symSize: 0x12D0 }
-  - { offsetInCU: 0x2873, offset: 0x69B46, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0x4730, symBinAddr: 0x1E9D0, symSize: 0x10 }
-  - { offsetInCU: 0x2887, offset: 0x69B5A, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x4780, symBinAddr: 0x1EA20, symSize: 0x10 }
-  - { offsetInCU: 0x289B, offset: 0x69B6E, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x4790, symBinAddr: 0x1EA30, symSize: 0x8 }
-  - { offsetInCU: 0x28AF, offset: 0x69B82, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC16viewDidDisappearyySbFyypSg_s5Error_pSgtcfU_TA', symObjAddr: 0x47F4, symBinAddr: 0x1EA94, symSize: 0x8 }
-  - { offsetInCU: 0x29E1, offset: 0x69CB4, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_ypSgTg5Tf4gd_n', symObjAddr: 0x23E8, symBinAddr: 0x1C834, symSize: 0x110 }
-  - { offsetInCU: 0x2B13, offset: 0x69DE6, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_ypTg5Tf4gd_n', symObjAddr: 0x24F8, symBinAddr: 0x1C944, symSize: 0x110 }
-  - { offsetInCU: 0x2C4B, offset: 0x69F1E, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSo38UIApplicationOpenExternalURLOptionsKeya_ypTg5Tf4gd_n', symObjAddr: 0x2608, symBinAddr: 0x1CA54, symSize: 0x100 }
-  - { offsetInCU: 0x27, offset: 0x6A4E3, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusO8rawValueSSvg', symObjAddr: 0x0, symBinAddr: 0x1EB2C, symSize: 0x68 }
-  - { offsetInCU: 0x4B, offset: 0x6A507, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusO8rawValueSSvg', symObjAddr: 0x0, symBinAddr: 0x1EB2C, symSize: 0x68 }
-  - { offsetInCU: 0x7A, offset: 0x6A536, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusO8rawValueACSgSS_tcfC', symObjAddr: 0x68, symBinAddr: 0x1EB94, symSize: 0x18 }
-  - { offsetInCU: 0xAC, offset: 0x6A568, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSYAASY8rawValuexSg03RawG0Qz_tcfCTW', symObjAddr: 0x204, symBinAddr: 0x1ED30, symSize: 0x34 }
-  - { offsetInCU: 0xDE, offset: 0x6A59A, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSYAASY8rawValue03RawG0QzvgTW', symObjAddr: 0x238, symBinAddr: 0x1ED64, symSize: 0x28 }
-  - { offsetInCU: 0xF2, offset: 0x6A5AE, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusO8rawValueACSgSS_tcfCTf4nd_n', symObjAddr: 0x2BC, symBinAddr: 0x1EDE8, symSize: 0xE8 }
-  - { offsetInCU: 0x1A9, offset: 0x6A665, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSHAASQWb', symObjAddr: 0x3A4, symBinAddr: 0x1EED0, symSize: 0x4 }
-  - { offsetInCU: 0x1BD, offset: 0x6A679, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOACSQAAWl', symObjAddr: 0x3A8, symBinAddr: 0x1EED4, symSize: 0x44 }
-  - { offsetInCU: 0x1D1, offset: 0x6A68D, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOMa', symObjAddr: 0x3EC, symBinAddr: 0x1EF18, symSize: 0x10 }
-  - { offsetInCU: 0x1E5, offset: 0x6A6A1, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOACSYAAWl', symObjAddr: 0x3FC, symBinAddr: 0x1EF28, symSize: 0x44 }
-  - { offsetInCU: 0x228, offset: 0x6A6E4, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x80, symBinAddr: 0x1EBAC, symSize: 0x88 }
-  - { offsetInCU: 0x2D7, offset: 0x6A793, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSHAASH9hashValueSivgTW', symObjAddr: 0x108, symBinAddr: 0x1EC34, symSize: 0x60 }
-  - { offsetInCU: 0x36D, offset: 0x6A829, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x168, symBinAddr: 0x1EC94, symSize: 0x40 }
-  - { offsetInCU: 0x3BF, offset: 0x6A87B, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x1A8, symBinAddr: 0x1ECD4, symSize: 0x5C }
-  - { offsetInCU: 0x439, offset: 0x6A8F5, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSeAASe4fromxs7Decoder_p_tKcfCTW', symObjAddr: 0x260, symBinAddr: 0x1ED8C, symSize: 0x5C }
-  - { offsetInCU: 0x27, offset: 0x6AA10, size: 0x8, addend: 0x0, symName: ___swift_memcpy9_8, symObjAddr: 0x38, symBinAddr: 0x1EF6C, symSize: 0x14 }
-  - { offsetInCU: 0x3F, offset: 0x6AA28, size: 0x8, addend: 0x0, symName: ___swift_memcpy9_8, symObjAddr: 0x38, symBinAddr: 0x1EF6C, symSize: 0x14 }
-  - { offsetInCU: 0x53, offset: 0x6AA3C, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOwet', symObjAddr: 0x50, symBinAddr: 0x1EF80, symSize: 0x20 }
-  - { offsetInCU: 0x67, offset: 0x6AA50, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOwst', symObjAddr: 0x70, symBinAddr: 0x1EFA0, symSize: 0x30 }
-  - { offsetInCU: 0x7B, offset: 0x6AA64, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOwug', symObjAddr: 0xA0, symBinAddr: 0x1EFD0, symSize: 0x1C }
-  - { offsetInCU: 0x8F, offset: 0x6AA78, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOwup', symObjAddr: 0xBC, symBinAddr: 0x1EFEC, symSize: 0x4 }
-  - { offsetInCU: 0xA3, offset: 0x6AA8C, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOwui', symObjAddr: 0xC0, symBinAddr: 0x1EFF0, symSize: 0x20 }
-  - { offsetInCU: 0xB7, offset: 0x6AAA0, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOMa', symObjAddr: 0xE0, symBinAddr: 0x1F010, symSize: 0x10 }
-  - { offsetInCU: 0xE6, offset: 0x6AACF, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x100, symBinAddr: 0x1F030, symSize: 0x1C }
-  - { offsetInCU: 0x117, offset: 0x6AB00, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorO2eeoiySbAC_ACtFZTf4nnd_n', symObjAddr: 0x11C, symBinAddr: 0x1F04C, symSize: 0xBC }
-  - { offsetInCU: 0x162, offset: 0x6AB4B, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOs0D0AAsADP7_domainSSvgTW', symObjAddr: 0xF0, symBinAddr: 0x1F020, symSize: 0x4 }
-  - { offsetInCU: 0x17E, offset: 0x6AB67, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOs0D0AAsADP5_codeSivgTW', symObjAddr: 0xF4, symBinAddr: 0x1F024, symSize: 0x4 }
-  - { offsetInCU: 0x19A, offset: 0x6AB83, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOs0D0AAsADP9_userInfoyXlSgvgTW', symObjAddr: 0xF8, symBinAddr: 0x1F028, symSize: 0x4 }
-  - { offsetInCU: 0x1B6, offset: 0x6AB9F, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOs0D0AAsADP19_getEmbeddedNSErroryXlSgyFTW', symObjAddr: 0xFC, symBinAddr: 0x1F02C, symSize: 0x4 }
-  - { offsetInCU: 0x27, offset: 0x6ACAE, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A7ApiImplCfD', symObjAddr: 0x20, symBinAddr: 0x1F108, symSize: 0x24 }
-  - { offsetInCU: 0x69, offset: 0x6ACF0, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A7ApiImplCfD', symObjAddr: 0x20, symBinAddr: 0x1F108, symSize: 0x24 }
-  - { offsetInCU: 0xB5, offset: 0x6AD3C, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A7ApiImplCMa', symObjAddr: 0x44, symBinAddr: 0x1F12C, symSize: 0x20 }
+  - { offsetInCU: 0x10DD, offset: 0x65BF6, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC9viewModelAcA0adG0_p_tcfcTf4en_nAA0adgE0C_Tg5', symObjAddr: 0x1F00, symBinAddr: 0x19518, symSize: 0x414 }
+  - { offsetInCU: 0x16E8, offset: 0x66201, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplCMa', symObjAddr: 0x14F4, symBinAddr: 0x18B58, symSize: 0x20 }
+  - { offsetInCU: 0x1745, offset: 0x6625E, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC10destroyCMP33_CD6674DB3932C2FB908DF7DE894DBE5BLLyyF', symObjAddr: 0x18A0, symBinAddr: 0x18F04, symSize: 0x11C }
+  - { offsetInCU: 0x17EE, offset: 0x66307, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC7showCMPyyFyycfU_TA', symObjAddr: 0x1EB8, symBinAddr: 0x194F8, symSize: 0x8 }
+  - { offsetInCU: 0x1802, offset: 0x6631B, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x1EC0, symBinAddr: 0x19500, symSize: 0x10 }
+  - { offsetInCU: 0x1816, offset: 0x6632F, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x1ED0, symBinAddr: 0x19510, symSize: 0x8 }
+  - { offsetInCU: 0x1835, offset: 0x6634E, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC19handleCMPVisibilityyyAA0G0CSgFySo7NSTimerCYbcfU_TA', symObjAddr: 0x23E0, symBinAddr: 0x19970, symSize: 0x8 }
+  - { offsetInCU: 0x1849, offset: 0x66362, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A10WorkerImplC21storeCookiesOpenEvent7payloadySSSg_tFyycfU_TA', symObjAddr: 0x2468, symBinAddr: 0x199A4, symSize: 0xC }
+  - { offsetInCU: 0x185D, offset: 0x66376, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6IABTCFVACSeAAWl', symObjAddr: 0x2474, symBinAddr: 0x199B0, symSize: 0x44 }
+  - { offsetInCU: 0x1871, offset: 0x6638A, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK6IABTCFVWOs', symObjAddr: 0x2528, symBinAddr: 0x199F4, symSize: 0xE8 }
+  - { offsetInCU: 0x1885, offset: 0x6639E, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC9deniedATTyyFyycfU_TA', symObjAddr: 0x2610, symBinAddr: 0x19ADC, symSize: 0x8 }
+  - { offsetInCU: 0x1899, offset: 0x663B2, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC010loadHiddenC016forceShowConsentySb_tFyycfU_TA', symObjAddr: 0x265C, symBinAddr: 0x19B28, symSize: 0xC }
+  - { offsetInCU: 0x18AD, offset: 0x663C6, size: 0x8, addend: 0x0, symName: '_$sSo17OS_dispatch_queueCMa', symObjAddr: 0x2668, symBinAddr: 0x19B34, symSize: 0x3C }
+  - { offsetInCU: 0x18C1, offset: 0x663DA, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A13ViewModelImplC12userDefaults03webC06worker14networkMonitor10attManager13dispatchQueueACSo06NSUserG0C_AA03WebC0_pSgAA0A6Worker_pAA011NetworkPathK0_pAA10ATTManager_pAA08DispatchO4Type_ptcfcy0S06NWPathV6StatusOcfU_yyScMYccfU_TA', symObjAddr: 0x2718, symBinAddr: 0x19BE4, symSize: 0x30 }
+  - { offsetInCU: 0x18D5, offset: 0x663EE, size: 0x8, addend: 0x0, symName: '_$s8Dispatch0A13WorkItemFlagsVACs10SetAlgebraAAWl', symObjAddr: 0x2748, symBinAddr: 0x19C14, symSize: 0x48 }
+  - { offsetInCU: 0x18E9, offset: 0x66402, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGSayxGSTsWl', symObjAddr: 0x2790, symBinAddr: 0x19C5C, symSize: 0x4C }
+  - { offsetInCU: 0x69, offset: 0x6687E, size: 0x8, addend: 0x0, symName: '_$sSo17OS_dispatch_queueC10AxeptioSDK17DispatchQueueTypeA2cDP5async7executeyyyXB_tFTW', symObjAddr: 0x0, symBinAddr: 0x19CD4, symSize: 0x154 }
+  - { offsetInCU: 0x27, offset: 0x66A07, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12ProviderImplC7execute_10completionyAA14NetworkRequest_p_ys6ResultOyyts5Error_pGctFy10Foundation4DataVSg_So13NSURLResponseCSgsAI_pSgtYbcfU_', symObjAddr: 0x8, symBinAddr: 0x19E28, symSize: 0x194 }
+  - { offsetInCU: 0x61, offset: 0x66A41, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12ProviderImplC7execute_10completionyAA14NetworkRequest_p_ys6ResultOyyts5Error_pGctFy10Foundation4DataVSg_So13NSURLResponseCSgsAI_pSgtYbcfU_', symObjAddr: 0x8, symBinAddr: 0x19E28, symSize: 0x194 }
+  - { offsetInCU: 0x151, offset: 0x66B31, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12ProviderImplCfD', symObjAddr: 0x19C, symBinAddr: 0x19FBC, symSize: 0x10 }
+  - { offsetInCU: 0x181, offset: 0x66B61, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12ProviderImplCMa', symObjAddr: 0x1AC, symBinAddr: 0x19FCC, symSize: 0x20 }
+  - { offsetInCU: 0x4B, offset: 0x66D40, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventO8rawValueSSvg', symObjAddr: 0xC4, symBinAddr: 0x19FEC, symSize: 0x130 }
+  - { offsetInCU: 0xA3, offset: 0x66D98, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSYAASY8rawValuexSg03RawF0Qz_tcfCTW', symObjAddr: 0x378, symBinAddr: 0x1A2A0, symSize: 0x44 }
+  - { offsetInCU: 0xE9, offset: 0x66DDE, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSYAASY8rawValue03RawF0QzvgTW', symObjAddr: 0x3BC, symBinAddr: 0x1A2E4, symSize: 0x28 }
+  - { offsetInCU: 0x10C, offset: 0x66E01, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOs12CaseIterableAAsADP8allCases03AllH0QzvgZTW', symObjAddr: 0x3E4, symBinAddr: 0x1A30C, symSize: 0x24 }
+  - { offsetInCU: 0x13D, offset: 0x66E32, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventO8allCasesSayACGvgZTf4d_n', symObjAddr: 0x430, symBinAddr: 0x1A330, symSize: 0x54 }
+  - { offsetInCU: 0x1AD, offset: 0x66EA2, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventO8rawValueACSgSS_tcfCTf4nd_nTf4g_n', symObjAddr: 0x720, symBinAddr: 0x1A58C, symSize: 0x50 }
+  - { offsetInCU: 0x21B, offset: 0x66F10, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOwet', symObjAddr: 0x4D4, symBinAddr: 0x1A384, symSize: 0x90 }
+  - { offsetInCU: 0x22F, offset: 0x66F24, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOwst', symObjAddr: 0x564, symBinAddr: 0x1A414, symSize: 0xBC }
+  - { offsetInCU: 0x243, offset: 0x66F38, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOwug', symObjAddr: 0x620, symBinAddr: 0x1A4D0, symSize: 0x8 }
+  - { offsetInCU: 0x257, offset: 0x66F4C, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOwup', symObjAddr: 0x628, symBinAddr: 0x1A4D8, symSize: 0x4 }
+  - { offsetInCU: 0x26B, offset: 0x66F60, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOwui', symObjAddr: 0x62C, symBinAddr: 0x1A4DC, symSize: 0x8 }
+  - { offsetInCU: 0x27F, offset: 0x66F74, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOMa', symObjAddr: 0x634, symBinAddr: 0x1A4E4, symSize: 0x10 }
+  - { offsetInCU: 0x293, offset: 0x66F88, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOs12CaseIterableAA8AllCasessADP_SlWT', symObjAddr: 0x644, symBinAddr: 0x1A4F4, symSize: 0x4 }
+  - { offsetInCU: 0x2A7, offset: 0x66F9C, size: 0x8, addend: 0x0, symName: '_$sSay10AxeptioSDK14AnalyticsEventOGSayxGSlsWl', symObjAddr: 0x648, symBinAddr: 0x1A4F8, symSize: 0x4C }
+  - { offsetInCU: 0x2BB, offset: 0x66FB0, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSHAASQWb', symObjAddr: 0x6D8, symBinAddr: 0x1A544, symSize: 0x4 }
+  - { offsetInCU: 0x2CF, offset: 0x66FC4, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOACSQAAWl', symObjAddr: 0x6DC, symBinAddr: 0x1A548, symSize: 0x44 }
+  - { offsetInCU: 0x312, offset: 0x67007, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x1F4, symBinAddr: 0x1A11C, symSize: 0x88 }
+  - { offsetInCU: 0x3C1, offset: 0x670B6, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSHAASH9hashValueSivgTW', symObjAddr: 0x27C, symBinAddr: 0x1A1A4, symSize: 0x60 }
+  - { offsetInCU: 0x43F, offset: 0x67134, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x2DC, symBinAddr: 0x1A204, symSize: 0x40 }
+  - { offsetInCU: 0x491, offset: 0x67186, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK14AnalyticsEventOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x31C, symBinAddr: 0x1A244, symSize: 0x5C }
+  - { offsetInCU: 0x4F, offset: 0x6732F, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC13keyTCStringJSSSvpZ', symObjAddr: 0x18D28, symBinAddr: 0x30AC8, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x67349, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC11keyClientIdSSvpZ', symObjAddr: 0x18D38, symBinAddr: 0x30AD8, symSize: 0x0 }
+  - { offsetInCU: 0x77, offset: 0x67357, size: 0x8, addend: 0x0, symName: '_$sIeg_IeyB_TR', symObjAddr: 0x18, symBinAddr: 0x1A5DC, symSize: 0x2C }
+  - { offsetInCU: 0x8F, offset: 0x6736F, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC13keyTCStringJS_WZ', symObjAddr: 0x44, symBinAddr: 0x1A608, symSize: 0x2C }
+  - { offsetInCU: 0xA9, offset: 0x67389, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC11keyClientId_WZ', symObjAddr: 0x70, symBinAddr: 0x1A634, symSize: 0x30 }
+  - { offsetInCU: 0xCF, offset: 0x673AF, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC5coderACSgSo7NSCoderC_tcfc', symObjAddr: 0xA0, symBinAddr: 0x1A664, symSize: 0xB0 }
+  - { offsetInCU: 0x11A, offset: 0x673FA, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x150, symBinAddr: 0x1A714, symSize: 0x30 }
+  - { offsetInCU: 0x172, offset: 0x67452, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC04loadD016forceShowConsentySb_tF', symObjAddr: 0x180, symBinAddr: 0x1A744, symSize: 0x708 }
+  - { offsetInCU: 0x4EB, offset: 0x677CB, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC16viewDidDisappearyySbF', symObjAddr: 0xC34, symBinAddr: 0x1B1F8, symSize: 0x178 }
+  - { offsetInCU: 0x5BE, offset: 0x6789E, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC16viewDidDisappearyySbFyypSg_s5Error_pSgtcfU_', symObjAddr: 0xDAC, symBinAddr: 0x1B370, symSize: 0x158 }
+  - { offsetInCU: 0x6AA, offset: 0x6798A, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC16viewDidDisappearyySbFTo', symObjAddr: 0xFA8, symBinAddr: 0x1B56C, symSize: 0x3C }
+  - { offsetInCU: 0x6EE, offset: 0x679CE, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC7nibName6bundleACSSSg_So8NSBundleCSgtcfcTo', symObjAddr: 0xFE4, symBinAddr: 0x1B5A8, symSize: 0x34 }
+  - { offsetInCU: 0x74B, offset: 0x67A2B, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplCfD', symObjAddr: 0x1018, symBinAddr: 0x1B5DC, symSize: 0x30 }
+  - { offsetInCU: 0xA8F, offset: 0x67D6F, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC17initConfiguration33_AB57C153C3CD7F4D15788732DC7BDEE9LLyySo23WKUserContentControllerCzF', symObjAddr: 0x888, symBinAddr: 0x1AE4C, symSize: 0x3AC }
+  - { offsetInCU: 0xC78, offset: 0x67F58, size: 0x8, addend: 0x0, symName: '_$sypSgs5Error_pSgIegng_yXlSgSo7NSErrorCSgIeyByy_TR', symObjAddr: 0xF04, symBinAddr: 0x1B4C8, symSize: 0xA4 }
+  - { offsetInCU: 0xCA6, offset: 0x67F86, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplCfETo', symObjAddr: 0x1048, symBinAddr: 0x1B60C, symSize: 0x68 }
+  - { offsetInCU: 0xCD5, offset: 0x67FB5, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplCMa', symObjAddr: 0x10B0, symBinAddr: 0x1B674, symSize: 0x20 }
+  - { offsetInCU: 0xCF8, offset: 0x67FD8, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC03webD0_15decidePolicyFor15decisionHandlerySo05WKWebD0C_So18WKNavigationActionCySo0mnH0VctFTo', symObjAddr: 0x10D0, symBinAddr: 0x1B694, symSize: 0x98 }
+  - { offsetInCU: 0xD39, offset: 0x68019, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC21userContentController_10didReceiveySo06WKUsergH0C_So15WKScriptMessageCtFTo', symObjAddr: 0x1168, symBinAddr: 0x1B72C, symSize: 0x74 }
+  - { offsetInCU: 0xE1B, offset: 0x680FB, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC27clearLocalStorageBeforeInit33_AB57C153C3CD7F4D15788732DC7BDEE9LLyyFySaySo19WKWebsiteDataRecordCGcfU_', symObjAddr: 0x11DC, symBinAddr: 0x1B7A0, symSize: 0xF8 }
+  - { offsetInCU: 0xFCA, offset: 0x682AA, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC27clearLocalStorageBeforeInit33_AB57C153C3CD7F4D15788732DC7BDEE9LLyyFySaySo19WKWebsiteDataRecordCGcfU_yAGXEfU_', symObjAddr: 0x12D4, symBinAddr: 0x1B898, symSize: 0x310 }
+  - { offsetInCU: 0x1156, offset: 0x68436, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC27clearLocalStorageBeforeInit33_AB57C153C3CD7F4D15788732DC7BDEE9LLyyFySaySo19WKWebsiteDataRecordCGcfU_yAGXEfU_yycfU_', symObjAddr: 0x15E4, symBinAddr: 0x1BBA8, symSize: 0x4 }
+  - { offsetInCU: 0x1170, offset: 0x68450, size: 0x8, addend: 0x0, symName: '_$sSaySo19WKWebsiteDataRecordCGIegg_So7NSArrayCIeyBy_TR', symObjAddr: 0x15E8, symBinAddr: 0x1BBAC, symSize: 0x6C }
+  - { offsetInCU: 0x1188, offset: 0x68468, size: 0x8, addend: 0x0, symName: '_$s2os32getNullTerminatedUTF8PointerImpl_21storingStringOwnersInSVSS_SpyypGSgztF', symObjAddr: 0x173C, symBinAddr: 0x1BC18, symSize: 0xD0 }
+  - { offsetInCU: 0x11B6, offset: 0x68496, size: 0x8, addend: 0x0, symName: '_$ss11_StringGutsV16_deconstructUTF87scratchyXlSg5owner_xSi6lengthSb11usesScratchSb15allocatedMemorytSwSg_ts8_PointerRzlFSV_Tgq5', symObjAddr: 0x180C, symBinAddr: 0x1BCE8, symSize: 0x130 }
+  - { offsetInCU: 0x122F, offset: 0x6850F, size: 0x8, addend: 0x0, symName: '_$ss11_StringGutsV23_allocateForDeconstructyXl5owner_SVSi6lengthtyF', symObjAddr: 0x193C, symBinAddr: 0x1BE18, symSize: 0xAC }
+  - { offsetInCU: 0x12B3, offset: 0x68593, size: 0x8, addend: 0x0, symName: '_$ss32_copyCollectionToContiguousArrayys0dE0Vy7ElementQzGxSlRzlFSS8UTF8ViewV_Tgq5', symObjAddr: 0x19E8, symBinAddr: 0x1BEC4, symSize: 0x148 }
+  - { offsetInCU: 0x1322, offset: 0x68602, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFs5UInt8V_Tgq5', symObjAddr: 0x1B30, symBinAddr: 0x1C00C, symSize: 0xE8 }
+  - { offsetInCU: 0x13BF, offset: 0x6869F, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0x1C28, symBinAddr: 0x1C0F4, symSize: 0x64 }
+  - { offsetInCU: 0x1401, offset: 0x686E1, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSo38UIApplicationOpenExternalURLOptionsKeya_Tg5', symObjAddr: 0x1C8C, symBinAddr: 0x1C158, symSize: 0x80 }
+  - { offsetInCU: 0x14CB, offset: 0x687AB, size: 0x8, addend: 0x0, symName: '_$ss17_NativeDictionaryV7_insert2at3key5valueys10_HashTableV6BucketV_xnq_ntFSS_ypSgTg5', symObjAddr: 0x1D0C, symBinAddr: 0x1C1D8, symSize: 0x6C }
+  - { offsetInCU: 0x155A, offset: 0x6883A, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tg5', symObjAddr: 0x1D78, symBinAddr: 0x1C244, symSize: 0xE0 }
+  - { offsetInCU: 0x1599, offset: 0x68879, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSo38UIApplicationOpenExternalURLOptionsKeya_Tg5', symObjAddr: 0x1E58, symBinAddr: 0x1C324, symSize: 0x174 }
+  - { offsetInCU: 0x1621, offset: 0x68901, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiF10AxeptioSDK0G13EventListenerC_Tg5', symObjAddr: 0x1FCC, symBinAddr: 0x1C498, symSize: 0x1E4 }
+  - { offsetInCU: 0x177B, offset: 0x68A5B, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCs5UInt8V_Tgq5Tf4nnd_n', symObjAddr: 0x2708, symBinAddr: 0x1CBD4, symSize: 0x64 }
+  - { offsetInCU: 0x1835, offset: 0x68B15, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC21addDataToLocalStorage33_AB57C153C3CD7F4D15788732DC7BDEE9LL_4item17contentControllerySS_ypSo013WKUserContentU0CztFTf4nnnd_n', symObjAddr: 0x276C, symBinAddr: 0x1CC38, symSize: 0x4FC }
+  - { offsetInCU: 0x1B92, offset: 0x68E72, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC03webD0_15decidePolicyFor15decisionHandlerySo05WKWebD0C_So18WKNavigationActionCySo0mnH0VctF06$sSo24mnH16VIeyBy_ABIegy_TRALIeyBy_Tf1nncn_nTf4dndg_n', symObjAddr: 0x2C68, symBinAddr: 0x1D134, symSize: 0x62C }
+  - { offsetInCU: 0x1EC6, offset: 0x691A6, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC21userContentController_10didReceiveySo06WKUsergH0C_So15WKScriptMessageCtFTf4dnn_n', symObjAddr: 0x3294, symBinAddr: 0x1D760, symSize: 0x12D0 }
+  - { offsetInCU: 0x2873, offset: 0x69B53, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0x4730, symBinAddr: 0x1EA50, symSize: 0x10 }
+  - { offsetInCU: 0x2887, offset: 0x69B67, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x4780, symBinAddr: 0x1EAA0, symSize: 0x10 }
+  - { offsetInCU: 0x289B, offset: 0x69B7B, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x4790, symBinAddr: 0x1EAB0, symSize: 0x8 }
+  - { offsetInCU: 0x28AF, offset: 0x69B8F, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK11WebViewImplC16viewDidDisappearyySbFyypSg_s5Error_pSgtcfU_TA', symObjAddr: 0x47F4, symBinAddr: 0x1EB14, symSize: 0x8 }
+  - { offsetInCU: 0x29E1, offset: 0x69CC1, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_ypSgTg5Tf4gd_n', symObjAddr: 0x23E8, symBinAddr: 0x1C8B4, symSize: 0x110 }
+  - { offsetInCU: 0x2B13, offset: 0x69DF3, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_ypTg5Tf4gd_n', symObjAddr: 0x24F8, symBinAddr: 0x1C9C4, symSize: 0x110 }
+  - { offsetInCU: 0x2C4B, offset: 0x69F2B, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSo38UIApplicationOpenExternalURLOptionsKeya_ypTg5Tf4gd_n', symObjAddr: 0x2608, symBinAddr: 0x1CAD4, symSize: 0x100 }
+  - { offsetInCU: 0x27, offset: 0x6A4F0, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusO8rawValueSSvg', symObjAddr: 0x0, symBinAddr: 0x1EBAC, symSize: 0x68 }
+  - { offsetInCU: 0x4B, offset: 0x6A514, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusO8rawValueSSvg', symObjAddr: 0x0, symBinAddr: 0x1EBAC, symSize: 0x68 }
+  - { offsetInCU: 0x7A, offset: 0x6A543, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusO8rawValueACSgSS_tcfC', symObjAddr: 0x68, symBinAddr: 0x1EC14, symSize: 0x18 }
+  - { offsetInCU: 0xAC, offset: 0x6A575, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSYAASY8rawValuexSg03RawG0Qz_tcfCTW', symObjAddr: 0x204, symBinAddr: 0x1EDB0, symSize: 0x34 }
+  - { offsetInCU: 0xDE, offset: 0x6A5A7, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSYAASY8rawValue03RawG0QzvgTW', symObjAddr: 0x238, symBinAddr: 0x1EDE4, symSize: 0x28 }
+  - { offsetInCU: 0xF2, offset: 0x6A5BB, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusO8rawValueACSgSS_tcfCTf4nd_n', symObjAddr: 0x2BC, symBinAddr: 0x1EE68, symSize: 0xE8 }
+  - { offsetInCU: 0x1A9, offset: 0x6A672, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSHAASQWb', symObjAddr: 0x3A4, symBinAddr: 0x1EF50, symSize: 0x4 }
+  - { offsetInCU: 0x1BD, offset: 0x6A686, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOACSQAAWl', symObjAddr: 0x3A8, symBinAddr: 0x1EF54, symSize: 0x44 }
+  - { offsetInCU: 0x1D1, offset: 0x6A69A, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOMa', symObjAddr: 0x3EC, symBinAddr: 0x1EF98, symSize: 0x10 }
+  - { offsetInCU: 0x1E5, offset: 0x6A6AE, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOACSYAAWl', symObjAddr: 0x3FC, symBinAddr: 0x1EFA8, symSize: 0x44 }
+  - { offsetInCU: 0x228, offset: 0x6A6F1, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x80, symBinAddr: 0x1EC2C, symSize: 0x88 }
+  - { offsetInCU: 0x2D7, offset: 0x6A7A0, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSHAASH9hashValueSivgTW', symObjAddr: 0x108, symBinAddr: 0x1ECB4, symSize: 0x60 }
+  - { offsetInCU: 0x36D, offset: 0x6A836, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x168, symBinAddr: 0x1ED14, symSize: 0x40 }
+  - { offsetInCU: 0x3BF, offset: 0x6A888, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x1A8, symBinAddr: 0x1ED54, symSize: 0x5C }
+  - { offsetInCU: 0x439, offset: 0x6A902, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK19GoogleConsentStatusOSeAASe4fromxs7Decoder_p_tKcfCTW', symObjAddr: 0x260, symBinAddr: 0x1EE0C, symSize: 0x5C }
+  - { offsetInCU: 0x27, offset: 0x6AA1D, size: 0x8, addend: 0x0, symName: ___swift_memcpy9_8, symObjAddr: 0x38, symBinAddr: 0x1EFEC, symSize: 0x14 }
+  - { offsetInCU: 0x3F, offset: 0x6AA35, size: 0x8, addend: 0x0, symName: ___swift_memcpy9_8, symObjAddr: 0x38, symBinAddr: 0x1EFEC, symSize: 0x14 }
+  - { offsetInCU: 0x53, offset: 0x6AA49, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOwet', symObjAddr: 0x50, symBinAddr: 0x1F000, symSize: 0x20 }
+  - { offsetInCU: 0x67, offset: 0x6AA5D, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOwst', symObjAddr: 0x70, symBinAddr: 0x1F020, symSize: 0x30 }
+  - { offsetInCU: 0x7B, offset: 0x6AA71, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOwug', symObjAddr: 0xA0, symBinAddr: 0x1F050, symSize: 0x1C }
+  - { offsetInCU: 0x8F, offset: 0x6AA85, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOwup', symObjAddr: 0xBC, symBinAddr: 0x1F06C, symSize: 0x4 }
+  - { offsetInCU: 0xA3, offset: 0x6AA99, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOwui', symObjAddr: 0xC0, symBinAddr: 0x1F070, symSize: 0x20 }
+  - { offsetInCU: 0xB7, offset: 0x6AAAD, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOMa', symObjAddr: 0xE0, symBinAddr: 0x1F090, symSize: 0x10 }
+  - { offsetInCU: 0xE6, offset: 0x6AADC, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x100, symBinAddr: 0x1F0B0, symSize: 0x1C }
+  - { offsetInCU: 0x117, offset: 0x6AB0D, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorO2eeoiySbAC_ACtFZTf4nnd_n', symObjAddr: 0x11C, symBinAddr: 0x1F0CC, symSize: 0xBC }
+  - { offsetInCU: 0x162, offset: 0x6AB58, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOs0D0AAsADP7_domainSSvgTW', symObjAddr: 0xF0, symBinAddr: 0x1F0A0, symSize: 0x4 }
+  - { offsetInCU: 0x17E, offset: 0x6AB74, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOs0D0AAsADP5_codeSivgTW', symObjAddr: 0xF4, symBinAddr: 0x1F0A4, symSize: 0x4 }
+  - { offsetInCU: 0x19A, offset: 0x6AB90, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOs0D0AAsADP9_userInfoyXlSgvgTW', symObjAddr: 0xF8, symBinAddr: 0x1F0A8, symSize: 0x4 }
+  - { offsetInCU: 0x1B6, offset: 0x6ABAC, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK12NetworkErrorOs0D0AAsADP19_getEmbeddedNSErroryXlSgyFTW', symObjAddr: 0xFC, symBinAddr: 0x1F0AC, symSize: 0x4 }
+  - { offsetInCU: 0x27, offset: 0x6ACBB, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A7ApiImplCfD', symObjAddr: 0x20, symBinAddr: 0x1F188, symSize: 0x24 }
+  - { offsetInCU: 0x69, offset: 0x6ACFD, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A7ApiImplCfD', symObjAddr: 0x20, symBinAddr: 0x1F188, symSize: 0x24 }
+  - { offsetInCU: 0xB5, offset: 0x6AD49, size: 0x8, addend: 0x0, symName: '_$s10AxeptioSDK0A7ApiImplCMa', symObjAddr: 0x44, symBinAddr: 0x1F1AC, symSize: 0x20 }
 ...
