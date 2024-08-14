@@ -1051,7 +1051,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Decoder",
-                "printedName": "Swift.Decoder",
+                "printedName": "any Swift.Decoder",
                 "usr": "s:s7DecoderP"
               }
             ],
@@ -2239,55 +2239,6 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/AxeptioEndPoint.swift",
-      "kind": "StringLiteral",
-      "offset": 318,
-      "length": 6,
-      "value": "\"POST\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/AxeptioEndPoint.swift",
-      "kind": "StringLiteral",
-      "offset": 358,
-      "length": 22,
-      "value": "\"https:\/\/api.axept.io\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/AxeptioEndPoint.swift",
-      "kind": "StringLiteral",
-      "offset": 476,
-      "length": 20,
-      "value": "\"\/v1\/analytics\/evts\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/AxeptioEndPoint.swift",
-      "kind": "StringLiteral",
-      "offset": 587,
-      "length": 58,
-      "value": "\"\/v1\/app\/consents\/\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/AxeptioEndPoint.swift",
-      "kind": "StringLiteral",
-      "offset": 617,
-      "length": 1,
-      "value": "\"\/cookies\/\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/AxeptioEndPoint.swift",
-      "kind": "StringLiteral",
-      "offset": 644,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/AxeptioEndPoint.swift",
-      "kind": "Dictionary",
-      "offset": 903,
-      "length": 3,
-      "value": "[]"
-    },
-    {
       "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/Axeptio.swift",
       "kind": "StringLiteral",
       "offset": 822,
@@ -2317,34 +2268,6 @@
     },
     {
       "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/Axeptio.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1868,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/Axeptio.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2055,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/Axeptio.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2471,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/Axeptio.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3032,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/Axeptio.swift",
       "kind": "StringLiteral",
       "offset": 690,
       "length": 7,
@@ -2365,27 +2288,6 @@
       "value": "\"AXEPTIO_TAG\""
     },
     {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Common\/Extensions.swift",
-      "kind": "BooleanLiteral",
-      "offset": 377,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Common\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 897,
-      "length": 30,
-      "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSS'Z'\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Common\/Extensions.swift",
-      "kind": "StringLiteral",
-      "offset": 982,
-      "length": 5,
-      "value": "\"UTC\""
-    },
-    {
       "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Repository\/InAppEventQueueRepository.swift",
       "kind": "StringLiteral",
       "offset": 446,
@@ -2398,48 +2300,6 @@
       "offset": 509,
       "length": 22,
       "value": "\"io.axept.event_saved\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Repository\/InAppEventQueueRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 952,
-      "length": 11,
-      "value": "\"timestamp\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Repository\/InAppEventQueueRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 993,
-      "length": 12,
-      "value": "\"deployment\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Repository\/InAppEventQueueRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 1035,
-      "length": 6,
-      "value": "\"type\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Repository\/InAppEventQueueRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 1080,
-      "length": 10,
-      "value": "\"pathname\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Repository\/InAppEventQueueRepository.swift",
-      "kind": "StringLiteral",
-      "offset": 1126,
-      "length": 14,
-      "value": "\"io.axept.ios\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Common\/ATTManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 343,
-      "length": 4,
-      "value": "true"
     },
     {
       "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/GoogleConsentV2.swift",
@@ -2827,55 +2687,6 @@
       "value": "60000"
     },
     {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioWorker.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1556,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioWorker.swift",
-      "kind": "Array",
-      "offset": 1906,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioWorker.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2588,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioWorker.swift",
-      "kind": "StringLiteral",
-      "offset": 3404,
-      "length": 13,
-      "value": "\"preferences\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioWorker.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3647,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioWorker.swift",
-      "kind": "StringLiteral",
-      "offset": 4207,
-      "length": 63,
-      "value": "\"send consent proof called error \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioWorker.swift",
-      "kind": "StringLiteral",
-      "offset": 4269,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
       "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Repository\/EventQueueRepository.swift",
       "kind": "StringLiteral",
       "offset": 373,
@@ -2927,121 +2738,9 @@
     {
       "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1613,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2513,
-      "length": 16,
-      "value": "\"NetworkMonitor\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioViewModel.swift",
-      "kind": "BooleanLiteral",
       "offset": 2794,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3405,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3833,
-      "length": 29,
-      "value": "\"Failed to parse iabtcf data\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4475,
-      "length": 13,
-      "value": "\"sdk-app-tcf\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4496,
-      "length": 9,
-      "value": "\"sdk-ios\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5760,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6599,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/AxeptioViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7731,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Common\/DispatchQueueType.swift",
-      "kind": "Array",
-      "offset": 388,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/Provider.swift",
-      "kind": "IntegerLiteral",
-      "offset": 826,
-      "length": 3,
-      "value": "200"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/Provider.swift",
-      "kind": "IntegerLiteral",
-      "offset": 832,
-      "length": 3,
-      "value": "399"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/Provider.swift",
-      "kind": "IntegerLiteral",
-      "offset": 896,
-      "length": 3,
-      "value": "401"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/Provider.swift",
-      "kind": "IntegerLiteral",
-      "offset": 982,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/Provider.swift",
-      "kind": "IntegerLiteral",
-      "offset": 985,
-      "length": 3,
-      "value": "500"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/Provider.swift",
-      "kind": "IntegerLiteral",
-      "offset": 991,
-      "length": 3,
-      "value": "599"
     },
     {
       "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Model\/Events.swift",
@@ -3361,79 +3060,9 @@
     {
       "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1502,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1544,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1624,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1699,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "BooleanLiteral",
       "offset": 1925,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "Array",
-      "offset": 2214,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 2348,
-      "length": 6,
-      "value": "\"true\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 3002,
-      "length": 41,
-      "value": "\"Opening webview with url: \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 3042,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 3207,
-      "length": 54,
-      "value": "\"window.localStorage.getItem(\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 3256,
-      "length": 1,
-      "value": "\"\");\""
     },
     {
       "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
@@ -3443,242 +3072,11 @@
       "value": "\"AxeptioSDK.WebViewImpl\""
     },
     {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4254,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 4298,
-      "length": 6,
-      "value": "\"http\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 4330,
-      "length": 7,
-      "value": "\"https\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 4854,
-      "length": 6,
-      "value": "\"name\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 4927,
-      "length": 43,
-      "value": "\"Received event: \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 4952,
-      "length": 1,
-      "value": "\" - \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 4969,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 5013,
-      "length": 9,
-      "value": "\"payload\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 5372,
-      "length": 9,
-      "value": "\"payload\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 5914,
-      "length": 9,
-      "value": "\"payload\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 6111,
-      "length": 9,
-      "value": "\"payload\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6866,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7234,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 7424,
-      "length": 63,
-      "value": "\"Add data to local storage \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 7457,
-      "length": 1,
-      "value": "\": \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 7486,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 7537,
-      "length": 8,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 7544,
-      "length": 8,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 7828,
-      "length": 47,
-      "value": "\"Object.assign(window.localStorage, \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 7872,
-      "length": 1,
-      "value": "\");\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7960,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 8405,
-      "length": 46,
-      "value": "\"WKWebsiteDataStore record deleted: \""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 8450,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "StringLiteral",
-      "offset": 8586,
-      "length": 421,
-      "value": "\"    var axeptioAppSdk = {\n        onEvent: function (name, payload) {\n\n            const handler = window.webkit.messageHandlers.axeptioSdk;\n            if (handler) {\n                handler.postMessage({name, payload});\n            } else {\n                console.log(\"Missing iOS handler\");\n            }\n        }\n    };\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/WebView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9151,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/GoogleConsentStatus.swift",
       "kind": "IntegerLiteral",
       "offset": 259,
       "length": 6,
       "value": "1"
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/GoogleConsentStatus.swift",
-      "kind": "StringLiteral",
-      "offset": 355,
-      "length": 9,
-      "value": "\"granted\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/GoogleConsentStatus.swift",
-      "kind": "StringLiteral",
-      "offset": 394,
-      "length": 8,
-      "value": "\"denied\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/GoogleConsentStatus.swift",
-      "kind": "StringLiteral",
-      "offset": 497,
-      "length": 9,
-      "value": "\"granted\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Public\/GoogleConsentStatus.swift",
-      "kind": "StringLiteral",
-      "offset": 537,
-      "length": 8,
-      "value": "\"denied\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/NetworkRequest.swift",
-      "kind": "StringLiteral",
-      "offset": 676,
-      "length": 23,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/NetworkRequest.swift",
-      "kind": "StringLiteral",
-      "offset": 698,
-      "length": 9,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/NetworkRequest.swift",
-      "kind": "StringLiteral",
-      "offset": 1122,
-      "length": 18,
-      "value": "\"application\/json\""
-    },
-    {
-      "filePath": "\/Users\/runner\/work\/tcf-ios-sdk-sources\/tcf-ios-sdk-sources\/AxeptioSDK\/AxeptioSDK\/Internal\/Network\/NetworkRequest.swift",
-      "kind": "StringLiteral",
-      "offset": 1162,
-      "length": 14,
-      "value": "\"Content-Type\""
     }
   ]
 }
